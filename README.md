@@ -8,7 +8,6 @@ https://tst-blog-web.netlify.app/
 ## 💻 Tecnologias utilizadas:
 - HTML
 - CSS
-- JavaScript
 
 ## 📌 Funcionalidades:
 - Layout responsivo
